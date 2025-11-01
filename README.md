@@ -12,8 +12,7 @@ An interactive, real-time weather dashboard built purely in Python. Select a loc
 
 *(It is highly recommended to replace this placeholder with a real screenshot or GIF of your app!)*
 
-![Demo GIF of the Streamlit Weather App](https://placehold.co/800x400/262730/E0E2E6?text=Add+a+GIF+of+your+app+here!)
-
+![Demo GIF of the Streamlit Weather App]("C:\Users\SHAIK IMRAN\Pictures\Screenshots\Screenshot 2025-11-01 155915.png")
 ---
 
 ## ✨ Key Features

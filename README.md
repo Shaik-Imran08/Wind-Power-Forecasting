@@ -6,16 +6,6 @@
 
 An interactive, real-time weather dashboard built purely in Python. Select a location by searching for a city or clicking directly on an interactive map. This app is powered by Streamlit, Folium, and the **100% free, no-API-key-required** Open-Meteo API.
 
----
-
-## 📸 Application Demo
-
-*(It is highly recommended to replace this placeholder with a real screenshot or GIF of your app!)*
-
-![Demo GIF of the Streamlit Weather App](<img width="1619" height="840" alt="Screenshot 2025-11-01 155915" src="https://github.com/user-attachments/assets/d6edb1a3-d729-4e4a-944e-1172a9a62719" />
-)
----
-
 ## ✨ Key Features
 
 * **Real-Time Weather:** Get current temperature, wind speed, and weather conditions.
